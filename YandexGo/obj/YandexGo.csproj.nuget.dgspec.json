@@ -146,6 +146,78 @@
         }
       }
     },
+    "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Service\\YandexGo.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Service\\YandexGo.Service.csproj",
+        "projectName": "YandexGo.Service",
+        "projectPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Service\\YandexGo.Service.csproj",
+        "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Data\\YandexGo.Data.csproj": {
+                "projectPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Data\\YandexGo.Data.csproj"
+              },
+              "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Domain\\YandexGo.Domain.csproj": {
+                "projectPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Domain\\YandexGo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo\\YandexGo.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -165,18 +237,24 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
               "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Data\\YandexGo.Data.csproj": {
                 "projectPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Data\\YandexGo.Data.csproj"
+              },
+              "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Domain\\YandexGo.Domain.csproj": {
+                "projectPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Domain\\YandexGo.Domain.csproj"
+              },
+              "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Service\\YandexGo.Service.csproj": {
+                "projectPath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo.Service\\YandexGo.Service.csproj"
               }
             }
           }
@@ -188,8 +266,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -211,9 +289,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"

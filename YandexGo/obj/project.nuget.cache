@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ozfI+6OS/QV4RwP1eCTptqZayp5e2U0KQrRTQnizSkoD7m6/f8YLJzZWvyjT9st2z7axtH9uz0XuWHaYqLHaEA==",
+  "dgSpecHash": "gakudwBt9f9Y7Gxo3566wHtE+5MvwgiqtytP+RpytLHdpxO4W0H9F9sJarPeDV8ICa/R2XSkboMf1DPjvpkRLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\muham\\source\\repos\\YandexGo\\YandexGo\\YandexGo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\muham\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\muham\\.nuget\\packages\\ibm.cloud.sdk.core\\1.3.1\\ibm.cloud.sdk.core.1.3.1.nupkg.sha512",
     "C:\\Users\\muham\\.nuget\\packages\\jwt\\5.1.1\\jwt.5.1.1.nupkg.sha512",

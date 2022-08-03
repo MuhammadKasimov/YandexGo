@@ -97,16 +97,6 @@ namespace YandexGo.Service.Services
 
             userForCreationDTO.Password = userForCreationDTO.Password.GetHashPasword();
 
-            user = await userRepository.CreateAsync(mapper.Map<User>(userForCreationDTO));
-
-            try
-            {
-                await userRepository.SaveAsync();
-            }
-            catch
-            {
-                throw new Exception("Username, Email or Login such already exists");
-            }
 
             user = userRepository.Update(mapper.Map(userForCreationDTO, user));
             await userRepository.SaveAsync();

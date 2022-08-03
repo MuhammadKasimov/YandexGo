@@ -1,10 +1,8 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
-    <Nullable>enable</Nullable>
-    <UseWPF>true</UseWPF>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,6 +14,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\YandexGo.Data\YandexGo.Data.csproj" />
+    <ProjectReference Include="..\YandexGo.Domain\YandexGo.Domain.csproj" />
+    <ProjectReference Include="..\YandexGo.Service\YandexGo.Service.csproj" />
   </ItemGroup>
 
 </Project>
