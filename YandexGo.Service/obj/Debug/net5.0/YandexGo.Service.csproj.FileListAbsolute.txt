@@ -1,0 +1,17 @@
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.AssemblyInfo.cs
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Service.deps.json
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Service.dll
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Service.pdb
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.dll
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\refint\YandexGo.Service.dll
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.pdb
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\ref\YandexGo.Service.dll
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Data.dll
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Domain.dll
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Data.pdb
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\bin\Debug\net5.0\YandexGo.Domain.pdb
+C:\Users\muham\source\repos\YandexGo\YandexGo.Service\obj\Debug\net5.0\YandexGo.Service.csproj.CopyComplete

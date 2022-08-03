@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\CarDTOs\" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\YandexGo.Data\YandexGo.Data.csproj" />
+    <ProjectReference Include="..\YandexGo.Domain\YandexGo.Domain.csproj" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+</Project>

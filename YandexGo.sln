@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YandexGo.Domain", "YandexGo.Domain\YandexGo.Domain.csproj", "{DD3BA57A-17ED-48DD-B2EA-BF218B8627EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YandexGo.Data", "YandexGo.Data\YandexGo.Data.csproj", "{ED83561C-A4DE-4B12-877E-6A127F0050A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexGo", "YandexGo\YandexGo.csproj", "{1838B460-C974-4427-94CA-F7285C70B072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexGo.Service", "YandexGo.Service\YandexGo.Service.csproj", "{46B8EFDA-A247-4231-8F23-0F1731C0FBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3BA57A-17ED-48DD-B2EA-BF218B8627EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3BA57A-17ED-48DD-B2EA-BF218B8627EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3BA57A-17ED-48DD-B2EA-BF218B8627EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3BA57A-17ED-48DD-B2EA-BF218B8627EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED83561C-A4DE-4B12-877E-6A127F0050A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED83561C-A4DE-4B12-877E-6A127F0050A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED83561C-A4DE-4B12-877E-6A127F0050A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED83561C-A4DE-4B12-877E-6A127F0050A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1838B460-C974-4427-94CA-F7285C70B072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1838B460-C974-4427-94CA-F7285C70B072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1838B460-C974-4427-94CA-F7285C70B072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1838B460-C974-4427-94CA-F7285C70B072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B8EFDA-A247-4231-8F23-0F1731C0FBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B8EFDA-A247-4231-8F23-0F1731C0FBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B8EFDA-A247-4231-8F23-0F1731C0FBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B8EFDA-A247-4231-8F23-0F1731C0FBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F644B048-2046-4083-A6B4-7A6C0D80CC86}
+	EndGlobalSection
+EndGlobal
